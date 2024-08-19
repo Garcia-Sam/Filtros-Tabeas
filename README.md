@@ -1,12 +1,12 @@
-<h1>Processamento de Números de Processos Judiciais.</h1>>
+# Processamento de Números de Processos Judiciais.
 
 Este projeto processa números de processos judiciais a partir de um arquivo Excel, formata os números, verifica a validade e salva os dados processados em um novo arquivo Excel.
 
 Requisitos:
-. Python 3.x
-. Pandas
-. re (Regular Expressions)
-. logging
+- Python 3.x
+- Pandas
+- re (Regular Expressions)
+- logging
 
 Funcionalidades:
 . Formatação de números de processos judiciais para 20 caracteres. . Verificação de números vazios ou contendo apenas zeros. . Verificação e classificação de números de processos como NUP (Número Único de Processo) ou Correspondência. . Leitura de dados de um arquivo Excel. . Salvamento de dados processados em um arquivo Excel com múltiplas planilhas. . Filtragem e organização dos dados processados. Dependências: . pandas . re
